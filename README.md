@@ -62,3 +62,5 @@ Notable topics can be found below.
 | Tech Companies | 0.005*"apple" + 0.004*"facebook" + 0.004*"amazon" + 0.004*"company" + 0.004*"new" + 0.003*"zika" + 0.003*"varvel" + 0.003*"food" + 0.003*"user" + 0.003*"use" |
 | Me Too Movement | 0.014*"sexual" + 0.010*"tory" + 0.008*"harassment" + 0.007*"allegation" + 0.007*"woman" + 0.006*"assault" + 0.005*"sex" + 0.005*"misconduct" + 0.004*"rape" + 0.004*"accuse" |
 | 2016 Election | 0.015*"clinton" + 0.011*"trump" + 0.010*"election" + 0.010*"hillary" + 0.009*"republican" + 0.009*"democratic" + 0.008*"candidate" + 0.008*"presidential" + 0.008*"democrat" + 0.008*"voter" |
+
+Some front-end development has been done [here](https://jvend.github.io/political_landscape_survey/)
