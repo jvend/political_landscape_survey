@@ -1,0 +1,33 @@
+Employment: unemployment, job growth; jobs, livelihood, strike, minimum wage, employment, recession, union
+National Budget: government shutdown; tax, inflation, budget, deficit, spending, treasury, funding, shutdown, debt, loan, bailout
+Trade: trade, tariff, sanction, NAFTA; export, import, levy
+Legislation: supreme court; appointments, judge, justice, legislation, judicial, law
+Nuclear: nuclear, uranium, plutonium, fusion, reactor; warhead
+Natural Disaster: natural disaster, earthquake, tsunami, hurricane, tornado, wildfire; storm, flood, drought, fire
+Terrorism: terrorism, terrorist, isis; tragedy, suicide, attack, bomb
+Military/Defense: military, national defense; war, conflict, defense, armed forces, marines, navy, army, air force, soldier, mobilization, strike, drone, troops, jet
+Natural Resources: natural resources; energy, oil, shortage, precious metals, pipeline, coal, gas, fuel, farmland, minerals, mine, water
+International Relations: foreign policy, international relations, eu; britain, korea, israel, china, russia, relations, tensions, international, middle east, iran, iraq, turkey, saudi arabia, syria, afghanistan, pakistan
+Scandal: scandal, corruption, whistleblowing, impeach; investigation, probe
+Elections: election; vote, ballot, candidate, suffrage, gerrymander, district, campaign
+Finance: finance, stock market, quarterly report; stock, bank, crash, market, interest, bull, bear, quarter, company, business, equity, dividend
+Congress: senate, house of representatives, congress, senator, congressman; house, legislature, seat, bill, resolution
+Wealth Inequality: income inequality, wealth gap, redistribute wealth; capitalism, socialism, communism, wealth, gap, redistribute, capitalist, socialist, disparity, inequity
+Censorship: censorship, freedom of speech, free speech, censor, politically correct, politically incorrect, first amendment; silence, offensive, block, hush, filter
+Religion: religion, religious, church, muslim, christian, jew, atheist; secular, protestant, satan, antisemitism, believer, pope, jesus, faith, beliefs
+Health Care: health care, medicare, medicaid, social security; disability, handicapped, workers compensation, hospital, pharmacy, pharmaceutical, affordable, insurance
+Guns: gun policy, gun control, NRA; shooting, rifle, gun
+Immigration: immigration, refugee, immigrant, asylum, border security; border, security, wall, migrant, xenophobic
+Education: education, literacy, tuition, illiterate, illiteracy, uneducated; school, teacher, student, college, university, class, graduation, high school, loan, math, science, stem, reading, classroom
+Race Relations: racist, affirmative action, black lives matter; racial, ethnic, minorities, white, black, reparation, diversity, inclusive, discrimination, slave
+Environment: climate change, global warming, pollution, epa; environment, sewage, trash, landfill, waste, toxic, contaminate, emission, plastic bags, renewable, green, clean, water, flint, lead, heavy metals, poison, sustainable, sustainability
+Gender Relations: feminism, sexual assault, rape; allegation, masculinity, consent, divorce, alimony, marriage
+Abortion: abortion, reproductive rights, birth control, right to life; adoption, Roe, Wade, unborn
+LGBT: gay, lesbian, transgender, gender, LGBT; sex, bathroom
+Police Brutality: police brutality; misconduct, excessive force, abuse, authority, leave, fired, cop
+Poverty: poverty, homeless, food stamps; poor, charity, hungry
+Violent Crime: crime rate, felony, murder, homicide; kidnap, manslaughter, kill, jail, incarceration, prison, criminals, arrest, crime, inmate, warden, misdemeanor, trial, stab
+Drugs: drug, narcotics, cartel, marijuana, cocaine, opioid; war on drugs, sell, possession, addiction
+Mass Shooting: mass shooting, columbine, sandy hook, parkland, aurora; school, tragedy
+Privacy: snowden, privacy, wire tapping; invasion of privacy, surveillance, eavesdrop
+Trump: donald trump; president, trump
