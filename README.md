@@ -43,7 +43,7 @@ Notable topics can be found below.
 | Iran/Israel/Palestine | 0.020*"iran" + 0.013*"israel" + 0.010*"saudi" + 0.008*"nuclear" + 0.007*"netanyahu" + 0.007*"israeli" + 0.006*"palestinian" + 0.006*"arabia" + 0.006*"deal" + 0.006*"trump" | 
 | UK Parliament        | 0.024*"labour" + 0.013*"corbyn" + 0.011*"jeremy" + 0.007*"party" + 0.007*"moore" + 0.006*"gorsuch" + 0.006*"britain" + 0.006*"chancellor" + 0.005*"quit" + 0.0    05*"neil" |
 | US Supreme Court| 0.025*"court" + 0.015*"supreme" + 0.011*"judge" + 0.008*"law" + 0.007*"appeal" + 0.007*"rule" + 0.007*"ban" + 0.007*"justice" + 0.006*"federal" + 0.006*"abortion" | 
-| Speak of the House |0.010*"ryan" + 0.009*"paul" + 0.009*"climate" + 0.006*"pelosi" + 0.005*"ed" + 0.005*"change" + 0.005*"transgender" + 0.005*"rand" + 0.005*"speaker" + 0.004*"nancy" |
+| Speaker of the House |0.010*"ryan" + 0.009*"paul" + 0.009*"climate" + 0.006*"pelosi" + 0.005*"ed" + 0.005*"change" + 0.005*"transgender" + 0.005*"rand" + 0.005*"speaker" + 0.004*"nancy" |
 | Education/School Shooting| 0.019*"school" + 0.013*"student" + 0.009*"gun" + 0.007*"college" + 0.007*"texas" + 0.006*"university" + 0.006*"teacher" + 0.005*"high" + 0.004*"campus" + 0.004*"education" |
 | Stock Market | 0.008*"stock" + 0.007*"oil" + 0.006*"market" + 0.006*"bank" + 0.005*"debt" + 0.005*"growth" + 0.005*"price" + 0.005*"percent" + 0.005*"rate" + 0.005*"company" |
 | Immigration | 0.014*"border" + 0.014*"trump" + 0.011*"immigration" + 0.009*"immigrant" + 0.008*"wall" + 0.008*"shutdown" + 0.007*"president" + 0.006*"donald" + 0.005*"gover    nment" + 0.005*"mexico" |
