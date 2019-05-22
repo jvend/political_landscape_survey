@@ -46,10 +46,10 @@ Notable topics can be found below.
 | Speaker of the House |0.010*"ryan" + 0.009*"paul" + 0.009*"climate" + 0.006*"pelosi" + 0.005*"ed" + 0.005*"change" + 0.005*"transgender" + 0.005*"rand" + 0.005*"speaker" + 0.004*"nancy" |
 | Education/School Shooting| 0.019*"school" + 0.013*"student" + 0.009*"gun" + 0.007*"college" + 0.007*"texas" + 0.006*"university" + 0.006*"teacher" + 0.005*"high" + 0.004*"campus" + 0.004*"education" |
 | Stock Market | 0.008*"stock" + 0.007*"oil" + 0.006*"market" + 0.006*"bank" + 0.005*"debt" + 0.005*"growth" + 0.005*"price" + 0.005*"percent" + 0.005*"rate" + 0.005*"company" |
-| Immigration | 0.014*"border" + 0.014*"trump" + 0.011*"immigration" + 0.009*"immigrant" + 0.008*"wall" + 0.008*"shutdown" + 0.007*"president" + 0.006*"donald" + 0.005*"gover    nment" + 0.005*"mexico" |
+| Immigration | 0.014*"border" + 0.014*"trump" + 0.011*"immigration" + 0.009*"immigrant" + 0.008*"wall" + 0.008*"shutdown" + 0.007*"president" + 0.006*"donald" + 0.005*"government" + 0.005*"mexico" |
 | Brett Kavanaugh | 0.032*"kavanaugh" + 0.016*"brett" + 0.010*"ford" + 0.008*"saginaw" + 0.007*"supreme" + 0.007*"abbott" + 0.007*"liverpool" + 0.007*"pete" + 0.006*"turnbull" + 0.006*"court" |
 | National Budget | 0.015*"tax" + 0.014*"budget" + 0.009*"health" + 0.007*"million" + 0.007*"cut" + 0.007*"state" + 0.006*"pay" + 0.006*"care" + 0.006*"plan" + 0.006*"billion" |
-| Police | 0.021*"police" + 0.011*"man" + 0.010*"officer" + 0.008*"arrest" + 0.008*"charge" + 0.007*"county" + 0.007*"kill" + 0.007*"shoot" + 0.006*"baltimore" + 0.005*"suspect" \
+| Police | 0.021*"police" + 0.011*"man" + 0.010*"officer" + 0.008*"arrest" + 0.008*"charge" + 0.007*"county" + 0.007*"kill" + 0.007*"shoot" + 0.006*"baltimore" + 0.005*"suspect" | 
 | Mueller Investigation | 0.018*"trump" + 0.012*"fbi" + 0.011*"mueller" + 0.010*"investigation" + 0.008*"president" + 0.008*"russia" + 0.008*"attorney" + 0.007*"russian" + 0.007*"donald" + 0.007*"counsel" |
 | Syria | 0.011*"syria" + 0.009*"military" + 0.008*"attack" + 0.008*"islamic" + 0.008*"iraq" + 0.007*"isi" + 0.007*"war" + 0.007*"syrian" + 0.007*"force" + 0.006*"army" |
 | Canada |  0.031*"mp" + 0.020*"trudeau" + 0.014*"justin" + 0.009*"ukrainian" + 0.008*"canadian" + 0.007*"ontario" + 0.007*"floyd" + 0.007*"canada" + 0.007*"ottawa" + 0.006*"ndp" |
